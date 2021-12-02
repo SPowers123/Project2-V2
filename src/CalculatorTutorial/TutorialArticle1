@@ -40,7 +40,7 @@
                                 <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle1">Pylint and Python</a></li>
                                 <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle2">AAA Testing</a></li>
                                 <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle3">All about OOPs</a></li>
+                                <li><a class="dropdown-item" href="/CalculatorTutorial/TutorialArticle3">All about OOPs</a></li>
                                 <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle4">SOLID Programming</a></li>
                             </ul>
                  </li>
