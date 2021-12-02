@@ -37,11 +37,11 @@
                  <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Calculator Tutorial</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="/CalculatorTutorial/TutorialArticle1/">Pylint and Python</a></li>
-                                <li><a class="dropdown-item" href="/CalculatorTutorial/TutorialArticle2/">AAA Testing</a></li>
+                                <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle1/">Pylint and Python</a></li>
+                                <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle2/">AAA Testing</a></li>
                                 <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="/CalculatorTutorial/TutorialArticle3/">All about OOPs</a></li>
-                                <li><a class="dropdown-item" href="/CalculatorTutorial/TutorialArticle4/">SOLID Programming</a></li>
+                                <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle3/">All about OOPs</a></li>
+                                <li><a class="dropdown-item" href="CalculatorTutorial/TutorialArticle4/">SOLID Programming</a></li>
                             </ul>
                  </li>
             </ul>
@@ -77,6 +77,7 @@
             <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">version: <span style="background-color: #fff0f0">&quot;3.2&quot;</span>
 pylint filename.py
 </pre></div>
+</code>
 
             <p class="lead">(make sure to replace the "filename" with your actual file's name).
             When running a program like Pylint, there are five warning messages that can come back. </p>
@@ -110,7 +111,7 @@ Reports:
   --output-format=<format>
 
 </pre></div>
-
+</code>
                 <p class="lead">While all the commands have their uses, the most pertinent one is the message control section. 
                 Being able to disable messages that don’t pertain to what you want to look out for decreases clutter drastically. 
                 For example, if you don’t mind having deprecated functions you could use the <kbd>–disable=deprecated-module</kbd> function to 
