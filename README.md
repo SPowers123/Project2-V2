@@ -4,4 +4,7 @@ A simple tutorial website describing how to host an Apache webserver in a Docker
 Tools used: Bootstrap, Apache, Docker, ACI (Azure Container Instances)
 
 Docker Hub: seanpow123/project2webpage
-Live site: acidemo.eastus2.azurecontainer.io
+Live site: seanpowersproject2v2.eastus.azurecontainer.io
+
+
+LIVE SITE LINK NOW WORKS
